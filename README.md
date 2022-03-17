@@ -17,4 +17,4 @@ and/or file upload limits.
 ### History
 This repo was previously included in a [mono repo](https://github.com/favish/docker-images) and the last published
 tag with that repo was `php-7.3-fpm_drupal-8_1.2.4`. The CircleCI build process continues to publish versions to the same image
-on [Dockerhub](https://hub.docker.com/r/favish/php-7.3-fpm-drupal-8). The first tag published with this repo is `2.0.0`.
+on [Dockerhub](https://hub.docker.com/r/favish/php-7.3-fpm-drupal-8). The first tag published with this repo is `2.0.1`.
